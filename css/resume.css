@@ -12,3 +12,8 @@ body {
 .item h2 {
     color: rgb(3, 147, 190);
 }
+.content:hover {
+    font-size: 1.5rem;
+    color:rebeccapurple;
+    transition: .2 ease-in-out;
+}
